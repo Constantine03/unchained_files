@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+<div>
+    <h2>{{ car.name }}</h2>
+    <p>{{ car.price }}</p>
+    <img src="{{ car.photo.url }}" alt="Car_image" width="600">
+    <div>
+        <a href="{{ car.specs.url }}" download="">
+            <button type="button">Download specs</button>
+        </a>
+    </div>
+</div>
+
+{% endblock content %}

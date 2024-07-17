@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<a href="{% url 'car_new' %}">create new car</a>
+{% for car in car_list %}
+    <div>
+        <h2><a href="{% url 'car_detail' car.pk %}">{{ car.name }}</a></h2>
+        <img src="{{ car.photo.url }}" alt="Car_image" width="300">
+    </div>
+{% endfor %}
+
+{% endblock content %}
+

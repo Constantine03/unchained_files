@@ -1,0 +1,116 @@
+Engine manufacturer:
+
+Honda R18A-series
+
+Engine type:
+
+spark-ignition 4-stroke
+
+Fuel type:
+
+gasoline (petrol)
+
+Fuel system:
+
+gasoline indirect injection
+
+Charge system:
+
+naturally aspirated
+
+Valves per cylinder:
+
+4
+
+Valves timing:
+
+i-VTEC (Variable Valve Timing and Lift Electronic Control + VCT)
+
+Additional features:
+
+PGM-FI; SOHC
+
+
+
+
+
+Emission control:
+
+3-way catalyst, Lambda-Sensor
+
+Emission standard:
+
+Euro 5
+
+
+
+
+
+Cylinders alignment:
+
+Line 4
+
+Displacement:
+
+1799 cm3 / 110 cui
+
+Bore:
+
+81 mm / 3.19 in
+
+Stroke:
+
+87.3 mm / 3.44 in
+
+Compression ratio:
+
+10.5 : 1
+
+Horsepower net:
+
+103 kW / 140 PS / 138 hp (ECE)
+
+
+/ 6300
+
+Torque net:
+
+174 Nm / 128 ft-lb
+
+
+/ 4300
+
+Horsepower gross:
+
+
+
+
+Torque gross:
+
+
+
+
+Redline rpm:
+
+
+
+
+Car power to weight ratio net:
+
+82.7 watt/kg / 37.5 watt/lb
+
+Car power to weight ratio gross:
+
+
+Car weight to power ratio net:
+
+12.1 kg/kW / 8.9 kg/PS / 19.9 lbs/hp
+
+Car weight to power ratio gross:
+
+
+
+
+Fuel capacity:
+
+50 liter / 13.2 U.S. gal / 11 imp. gal
